@@ -1,4 +1,5 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e0f6ce75-73ee-4ea9-8bfe-741ecf0d042f" /># 🚀 Kubernetes Deployment & Auto-Scaling of a Containerized Application
+
+ 🚀 Kubernetes Deployment & Auto-Scaling of a Containerized Application
 
 ## 📌 Project Overview
 
@@ -113,6 +114,11 @@ Pods running
    ↓
 App access
 
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e7fdeab7-8a98-40ef-8131-14e01f1cfb5e" />
+
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f2e46808-003b-43c2-b97f-08329d561b43" />
+
 
 📈 Auto Scaling (HPA)
 kubectl apply -f hpa.yaml
@@ -145,6 +151,11 @@ Monitoring & Logging
 React Frontend Deployment
 Node.js Backend Deployment
 MongoDB Deployment
+
+🎯 Project Output
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b7acac05-2712-4180-9188-ccc2ccea3b2b" />
+
 
 👨‍💻 Author
 
